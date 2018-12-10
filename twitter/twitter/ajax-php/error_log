@@ -1,0 +1,226 @@
+[19-Aug-2018 06:33:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 116
+[19-Aug-2018 06:33:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 06:33:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 796
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 06:33:47 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 06:52:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 116
+[19-Aug-2018 06:52:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 06:52:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 796
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 06:52:05 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 06:52:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 116
+[19-Aug-2018 06:52:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 06:52:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 796
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 06:52:19 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 06:59:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 116
+[19-Aug-2018 06:59:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 06:59:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 796
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 06:59:25 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:01:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 07:01:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 796
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 07:01:42 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:02:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 782
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 07:02:35 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 07:03:10 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:04:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 4
+[19-Aug-2018 07:04:13 UTC] PHP Warning:  require_once(./twitter/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:04:13 UTC] PHP Fatal error:  require_once(): Failed opening required './twitter/twitteroauth/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:04:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 4
+[19-Aug-2018 07:04:35 UTC] PHP Warning:  require_once(./twitter/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:04:35 UTC] PHP Fatal error:  require_once(): Failed opening required './twitter/twitteroauth/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 4
+[19-Aug-2018 07:06:10 UTC] PHP Warning:  require_once(./twitter/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:06:10 UTC] PHP Fatal error:  require_once(): Failed opening required './twitter/twitteroauth/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/library/JSON.php on line 15
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 52
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 07:07:37 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:08:26 UTC] PHP Warning:  require(./twitter/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 15
+[19-Aug-2018 07:08:26 UTC] PHP Fatal error:  require(): Failed opening required './twitter/twitteroauth/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 15
+[19-Aug-2018 07:09:30 UTC] PHP Warning:  require_once(./twitter/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 15
+[19-Aug-2018 07:09:30 UTC] PHP Fatal error:  require_once(): Failed opening required './twitter/twitteroauth/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 15
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 53
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 54
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 55
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 56
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 57
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 58
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 59
+[19-Aug-2018 07:10:29 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 60
+[19-Aug-2018 07:18:05 UTC] PHP Notice:  Undefined variable: access_token in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 07:18:05 UTC] PHP Notice:  Undefined variable: access_token in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 32
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 74
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 07:19:08 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 74
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 07:19:11 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'screen_name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'text' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'profile_image_url_https' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'screen_name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'text' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'profile_image_url_https' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 08:39:51 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 10:17:56 UTC] PHP Warning:  include(./config/config.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:17:56 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:17:56 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_KEY - assumed 'TWITTER_CONSUMER_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 30
+[19-Aug-2018 10:17:56 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_SECRET_KEY - assumed 'TWITTER_CONSUMER_SECRET_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 10:17:56 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 10:18:11 UTC] PHP Warning:  include(./config/config.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:18:11 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:18:11 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_KEY - assumed 'TWITTER_CONSUMER_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 30
+[19-Aug-2018 10:18:11 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_SECRET_KEY - assumed 'TWITTER_CONSUMER_SECRET_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 10:21:07 UTC] PHP Warning:  include(./config/config.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:21:07 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:21:07 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_KEY - assumed 'TWITTER_CONSUMER_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 30
+[19-Aug-2018 10:21:07 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_SECRET_KEY - assumed 'TWITTER_CONSUMER_SECRET_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 10:21:07 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 10:21:28 UTC] PHP Warning:  include(./config/config.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:21:28 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:21:28 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_KEY - assumed 'TWITTER_CONSUMER_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 30
+[19-Aug-2018 10:21:28 UTC] PHP Warning:  Use of undefined constant TWITTER_CONSUMER_SECRET_KEY - assumed 'TWITTER_CONSUMER_SECRET_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 10:21:28 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[19-Aug-2018 10:23:25 UTC] PHP Warning:  include(./config/config.php): failed to open stream: No such file or directory in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:23:25 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bme2kggy0iwu/public_html/twiproj/common.inc.php on line 8
+[19-Aug-2018 10:23:25 UTC] PHP Warning:  Use of undefined constant CONSUMER_KEY - assumed 'CONSUMER_KEY' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 30
+[19-Aug-2018 10:23:25 UTC] PHP Warning:  Use of undefined constant CONSUMER_SECRET - assumed 'CONSUMER_SECRET' (this will throw an Error in a future version of PHP) in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 31
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: id_str in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: text in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: user in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[19-Aug-2018 10:23:25 UTC] PHP Notice:  Undefined index: created_at in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'screen_name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'text' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'profile_image_url_https' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 75
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'screen_name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 76
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'name' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 77
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'id_str' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 78
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'text' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 79
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'user' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'profile_image_url_https' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 80
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 81
+[20-Aug-2018 09:33:41 UTC] PHP Warning:  Illegal string offset 'created_at' in /home/bme2kggy0iwu/public_html/twiproj/ajax-php/ajax-get-user-tweets.php on line 82

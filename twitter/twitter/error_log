@@ -1,0 +1,20 @@
+[08-Dec-2018 09:25:19 UTC] PHP Fatal error:  Uncaught Abraham\TwitterOAuth\TwitterOAuthException: {"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]} in /home/x4k54hildfhw/public_html/twitter/twitter/twitteroauth/src/TwitterOAuth.php:168
+Stack trace:
+#0 /home/x4k54hildfhw/public_html/twitter/index.php(27): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+  thrown in /home/x4k54hildfhw/public_html/twitter/twitter/twitteroauth/src/TwitterOAuth.php on line 168
+[10-Dec-2018 03:41:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:41:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:41:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:42:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:43:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:43:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177
+[10-Dec-2018 03:44:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/x4k54hildfhw/public_html/twitter/index.php on line 177

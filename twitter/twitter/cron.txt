@@ -1,0 +1,1 @@
+*/15 * * * * /usr/local/bin/php /home/x4k54hildfhw/public_html/twitter/flwdwn.php json -1 Divya_shingala divudpatel89@gmail.com 
